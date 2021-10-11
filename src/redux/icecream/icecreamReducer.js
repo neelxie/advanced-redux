@@ -15,3 +15,5 @@ const icecreamReducer = (state = initialState, action) => {
       return state;
   }
 };
+
+export default icecreamReducer;
